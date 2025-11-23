@@ -18,14 +18,13 @@ const formatoMap = {
     yyyy: hoy.getFullYear()-18
 };
 console.log(formatoMap);
-/*console.log(avui.getFullYear());
 
 if(dataNaixement >= data18){
     console.log("Es major a 18");
     
 }else{
-    console.log("Es menor de 18");
-   
-}*/
+    console.log("Es menor de 18"); 
+}
+
 
 
